@@ -1,5 +1,6 @@
-flask
-requests
-beautifulsoup4
-promptfoo
-gunicorn 
+fastapi
+uvicorn
+pydantic
+numpy
+faiss-cpu
+sentence-transformers
